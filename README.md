@@ -192,7 +192,7 @@ outbound-humanlike-bench/
 
 ## 技术报告
 
-完整实验设计、维度得分、消融实验数据与局限性分析，见 **[docs/report.md](docs/report.md)**。
+完整实验设计、维度得分、消融实验数据与局限性分析，见 **[report.md](report.md)**。
 
 ---
 
