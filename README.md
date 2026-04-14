@@ -213,4 +213,6 @@ outbound-humanlike-bench/
 
 ## License
 
-MIT License · 数据与代码完整开源
+本项目基于 Apache License 2.0 开源。
+
+商业部署、OEM 或托管服务需要单独的商业许可证。详见 **[COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md)**。
